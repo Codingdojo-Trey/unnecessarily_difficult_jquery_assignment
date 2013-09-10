@@ -1,0 +1,44 @@
+td 
+{
+	border: 3px solid black;
+}
+
+#cell1
+{
+
+}
+#cell1
+{
+	
+}
+img
+{
+	width: 30px;
+	height: 30px;
+}
+#cell2
+{
+	background-color: pink;
+}
+#cell3
+{
+	background-color: purple;
+}
+#cell4
+{
+	background-color: silver;
+}
+#cell5
+{
+	background-color: green;
+}
+
+#cell6
+{
+	background-color: red;
+}
+
+.blue
+{
+	background-color: blue;
+}
